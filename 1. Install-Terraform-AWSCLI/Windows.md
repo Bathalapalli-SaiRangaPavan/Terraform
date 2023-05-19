@@ -94,14 +94,18 @@ aws
 - Click (Done)
 
 
-######  Go to command prompt 
-- aws configure 
+######  Go to command prompt
+```
+aws configure 
+```
 - give access key 
 - give secret key 
-- Select region (us-east-1) # it depends on which region you want to launch 
-- Default output format - its optional # click enter 
+- Select region (us-east-1) <it depends on which region you want to launch>
+- Default output format - its optional 
+- click (Enter) 
 
 ##### To test 
-- aws s3 ls
-
+```
+aws s3 ls
+```
 
